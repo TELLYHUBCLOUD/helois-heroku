@@ -37,7 +37,7 @@ try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
 except:
-    UPSTREAM_REPO = "https://github.com/ok-op/heroku-h-code"
+    UPSTREAM_REPO = "https://github.com/TELLYHUBCLOUD/helios01"
 try:
     if len(UPSTREAM_BRANCH) == 0:
        raise TypeError
